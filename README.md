@@ -1,8 +1,8 @@
 # Parking Form Web Application
-- A simple web application for managing parking data, developed using HTML, CSS, and PHP.
+A simple web application for managing parking data, developed using HTML, CSS, and PHP.
 
 ## About the Project
-- This application allows users to fill out a parking form with basic information. It demonstrates form handling using PHP, capturing user input, and provides a clean, responsive user interface.
+This application allows users to fill out a parking form with basic information. It demonstrates form handling using PHP, capturing user input, and provides a clean, responsive user interface.
 
 # Features
 - Basic HTML form for parking data input.
@@ -36,7 +36,7 @@
 3. Submit the form to see your data processed by PHP.
    
 ## Contributing
-- Contributions are welcome! Please fork the repository and submit a pull request with any changes.
+Contributions are welcome! Please fork the repository and submit a pull request with any changes.
 
 ## License
-- This project is licensed under the MIT License.
+This project is licensed under the MIT License.
