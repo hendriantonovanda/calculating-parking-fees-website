@@ -22,11 +22,11 @@ This application allows users to fill out a parking form with basic information.
    ```bash
    git clone https://github.com/yourusername/parking-form.git
 2. Move to the project directory :
-   ```bash
+   ```
    cd parking-form
 3. Place the project folder in the htdocs directory (for XAMPP users) or the appropriate server directory.
 4. Start your local server.
-5. Open a browser and go to:
+5. Open a browser and go to :
    ```
    http://localhost/parking-form/index.php
 
