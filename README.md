@@ -4,7 +4,7 @@ A simple web application for managing parking data, developed using HTML, CSS, a
 ## About the Project
 This application allows users to fill out a parking form with basic information. It demonstrates form handling using PHP, capturing user input, and provides a clean, responsive user interface.
 
-# Features
+## Features
 - Basic HTML form for parking data input.
 - Uses PHP for backend form processing.
 - Responsive design with CSS for easy access on mobile and desktop.
@@ -35,7 +35,7 @@ This application allows users to fill out a parking form with basic information.
 2. Fill out the necessary parking information (e.g., vehicle details, parking duration).
 3. Submit the form to see your data processed by PHP.
    
-## Contributing
+## Contribution
 Contributions are welcome! Please fork the repository and submit a pull request with any changes.
 
 ## License
